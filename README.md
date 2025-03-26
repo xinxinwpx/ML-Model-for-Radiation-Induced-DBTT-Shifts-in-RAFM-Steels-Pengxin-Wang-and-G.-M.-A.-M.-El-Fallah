@@ -30,7 +30,7 @@ This repository contains the complete machine learning workflow for predicting r
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-repo-url/stacking-dbtt-rafa.git
+git clone https://github.com/xinxinwpx/ML-Model-for-Radiation-Induced-DBTT-Shifts-in-RAFM-Steels-Pengxin-Wang-and-G.-M.-A.-M.-El-Fallah
 ```
 
 2. **Install the dependencies**
